@@ -1,0 +1,152 @@
+h1 {
+  color: #5499c7;
+  font-style: italic;
+  text-shadow: 2px 2px 4px;
+  font-size: 60px;
+}
+
+p {
+  color: white;
+  font-size: 28px;
+  font-style: unset;
+  line-height: 1.5;
+}
+
+h6 {
+  color: aquamarine;
+  font-size: 18px;
+  font-style: oblique;
+}
+
+h3 {
+  color: chartreuse;
+  font-size: 30px;
+  font-style: italic;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h2 {
+  color: rgb(30, 0, 255);
+  font-size: 30px;
+  font-style: italic;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#menu ul {
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
+}
+
+#menu li {
+  float: left;
+}
+
+#menu a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 12px 26px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 18px;
+}
+
+#menu {
+  /* Permalink - use to edit and share this gradient. Enlace permanente - úsalo para editar y compartir este gradiente: https://colorzilla.com/gradient-editor/#959595+0,010101+50,0a0a0a+70,4e4e4e+76,383838+87,1b1b1b+100 */
+  background: linear-gradient(
+    to bottom,
+    #959595 0%,
+    #010101 50%,
+    #0a0a0a 70%,
+    #4e4e4e 76%,
+    #383838 87%,
+    #1b1b1b 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+  width: 2000px;
+  height: 80px;
+}
+
+.barra {
+  color: azure;
+  padding: 15px;
+}
+
+#menu a:hover {
+  color: aqua;
+  background: rgba(red, green, blue);
+}
+
+body {
+  /* Permalink - use to edit and share this gradient. Enlace permanente - úsalo para editar y compartir este gradiente: https://colorzilla.com/gradient-editor/#d8e0de+0,aebfbc+22,99afab+33,8ea6a2+50,829d98+67,4e5c5a+82,0e0e0e+100;Grey+3D */
+  background: linear-gradient(
+    to bottom,
+    rgba(216, 224, 222, 1) 0%,
+    rgba(174, 191, 188, 1) 22%,
+    rgba(153, 175, 171, 1) 33%,
+    rgba(142, 166, 162, 1) 50%,
+    rgba(130, 157, 152, 1) 67%,
+    rgba(78, 92, 90, 1) 82%,
+    rgba(14, 14, 14, 1) 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.img-1 {
+  float: center;
+  margin-right: 20px;
+}
+
+.img-2 {
+  float: left;
+  margin-right: 20px;
+}
+
+.img-3 {
+  float: right;
+  margin-right: 20px;
+}
+
+.images1 {
+  float: center;
+  margin-right: 20px;
+}
+
+.images2 {
+  float: left;
+  margin-right: 20px;
+}
+
+.images3 {
+  float: right;
+  margin-right: 20px;
+}
+
+.images4 {
+  float: center;
+  margin-right: 20px;
+}
+
+.images5 {
+  float: left;
+  margin-right: 20px;
+}
+
+.images6 {
+  float: right;
+  margin-right: 20px;
+}
+
+.images7 {
+  float: center;
+  margin-right: 20px;
+}
+
+.images8 {
+  float: left;
+  margin-right: 20px;
+}
+
+.images9 {
+  float: right;
+  margin-right: 20px;
+}
